@@ -24,7 +24,7 @@ publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
 publication: "CN109532363"
-publication_short: "issued"
+publication_short: ""
 
 abstract: The invention discloses an integrated trailing arm type independent suspension system. The system comprises a power device, the left side and the right side of the power device sleeve mandrels respectively, the mandrels on the left side and the right side are fixedly connected with a vehicle body separately, blade dampers and trailing arms sleeve the mandrels on the left side and the right side insequence from inside to outside, the inner ends of two blade dampers on the left side and the right side are connected with the two ends of the power device respectively, the trailing arms are connected with the blade dampers on the corresponding sides, torsion rod springs are connected between the blade damper on the left side and the trailing arm on the right side and between the blade damper on the right side and the trailing arm on the left side, and the lower ends of the two trailing arms are connected with the wheels. Automatic adjustment of the vehicle body height is achieved, and thevehicle body damping function is achieved; a vehicle body platform can adapt to various complex terrains, and the functions of climbing, ditch crossing, mountain driving and the like are achieved.
 
