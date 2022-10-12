@@ -1,33 +1,31 @@
 ---
-title: "ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine"
+title: "Integrated trailing arm type independent suspension system"
 authors:
 - Boce Hu
 - admin
 - Xupeng Ai
 - Sunil K, Agrawal
-date: "2022-10-11T00:00:00Z"
+date: "2020-06-09T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-11T00:00:00Z"
+publishDate: "2020-06-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "CN109532363"
 publication_short: ""
 
-abstract: Human pose estimation (HPE) for 3D skeleton reconstruction in telemedicine has long received attention. Although the development of deep learning has made HPE methods in telemedicine simpler and easier to use, addressing low accuracy and high latency remains a big challenge. In this paper, we propose a novel multi-view Attention Cube Regression Network (ACRNet), which regresses the 3D position of joints in real time by aggregating informative attention points on each cube surface. More specially, a cube whose each surface contains uniformly distributed attention points with specific coordinate values is first created to wrap the target from the main view. Then, our network regresses the 3D position of each joint by summing and averaging the coordinates of attention points on each surface after being weighted. To verify our method, we first tested ACRNet on the opensource ITOP dataset; meanwhile, we collected a new multi-view upper body movement dataset (UBM) on the trunk support trainer (TruST) to validate the capability of our model in real rehabilitation scenarios. Experimental results demonstrate the superiority of ACRNet compared with other state-of-theart methods. We also validate the efficacy of each module in ACRNet. Furthermore, Our work analyzes the performance of ACRNet under the medical monitoring indicator. Because of the high accuracy and running speed, our model is suitable for real-time telemedicine settings
+abstract: The invention discloses an integrated trailing arm type independent suspension system. The system comprises a power device, the left side and the right side of the power device sleeve mandrels respectively, the mandrels on the left side and the right side are fixedly connected with a vehicle body separately, blade dampers and trailing arms sleeve the mandrels on the left side and the right side insequence from inside to outside, the inner ends of two blade dampers on the left side and the right side are connected with the two ends of the power device respectively, the trailing arms are connected with the blade dampers on the corresponding sides, torsion rod springs are connected between the blade damper on the left side and the trailing arm on the right side and between the blade damper on the right side and the trailing arm on the left side, and the lower ends of the two trailing arms are connected with the wheels. Automatic adjustment of the vehicle body height is achieved, and thevehicle body damping function is achieved; a vehicle body platform can adapt to various complex terrains, and the functions of climbing, ditch crossing, mountain driving and the like are achieved.
 
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-- Source Themes
 featured: false
 
 links:
