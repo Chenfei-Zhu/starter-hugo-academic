@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 2
+  view: 4
   columns: '1'
 #{{% callout note %}}
 #Quickly discover relevant content by [filtering patents](./patent/).
