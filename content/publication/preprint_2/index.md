@@ -23,7 +23,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Coming soon
+abstract: Seated postural limit defines the region from beyond which a subject cannot return the trunk to the neutral position without additional external support. The seated postural limits can be used as a reference to provide assistive support to the torso by an appropriately designed robotics, e.g., Trunk Support Trainer (TruST). However, fixed boundary representations of seated postural limits in the literature cannot capture the dynamically changing seated postural limits during training. In this study, we propose a conceptual model of the dynamic boundary of the trunk center using a boundary vector designed to track the postural-goal direction and trunk movement amplitude during a sitting task. We experimented with 20 healthy subjects. The results support our hypothesis that TruST intervention with an assist-as-needed controller based on the proposed dynamic boundary representation could achieve more significant sitting workspace area improvements than a fixed boundary representation. The second contribution of this paper is that we provide an approach to effectively introduce deep learning into TruST's real-time controller design. We compiled a 3D trunk movement dataset which is currently the largest in the literature. We designed a loss capable of solving the gate-controlled regression problem. We proposed a novel roadmap for the exploration study. Following the roadmap, we developed a deep learning architecture, modified the widely used Inception module, and then obtained a deep learning model capable of accurately predicting the dynamic boundary in real-time. We believe this approach can be extended across other rehabilitation robots towards designing intelligent dynamic boundary-based assist-as-needed controllers.
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -46,29 +46,29 @@ url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
+
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
