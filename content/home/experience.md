@@ -38,7 +38,7 @@ experience:
     company_logo: cu
     location: Shenzhen, China
     date_start: '2020-07-11'
-    date_end: '2020-09-1'
+    date_end: '2020-09-01'
   
  
 
