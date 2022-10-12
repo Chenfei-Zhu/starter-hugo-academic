@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenfei Zhu 朱辰飞
+title: Chenfei Zhu
 
 # Full name (for SEO)
 first_name: Chenfei
