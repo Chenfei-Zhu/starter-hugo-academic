@@ -2,7 +2,7 @@
 title: Evolutionary Robot Design
 summary: Use evolutionary algorithms to evolve a novel robot.
 tags:
-  - Deep Learning
+  - Evolutionary Algorithm
   - Robotics
 date: '2021-12-07T00:00:00Z'
 

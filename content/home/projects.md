@@ -27,10 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Reinforcement Learning
-      tag: Reinforcement Learning
     - name: Machine Learning
-      tag: Deep Learning, Reinforcement Learning
+      tag: Deep Learning, Reinforcement Learning, Evolutionary Algorithm
     - name: Computer Vision
       tag: Computer Vision
     - name: Robotics
