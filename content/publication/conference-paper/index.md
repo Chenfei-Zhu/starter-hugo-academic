@@ -1,4 +1,5 @@
 ---
+Active: False
 title: 'An example conference paper'
 
 # Authors
