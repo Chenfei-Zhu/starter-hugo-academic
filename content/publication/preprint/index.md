@@ -26,8 +26,6 @@ abstract: Human pose estimation (HPE) for 3D skeleton reconstruction in telemedi
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-- Source Themes
 featured: false
 
 links:
