@@ -35,7 +35,7 @@ experience:
   - title: Mechanical Design Engineer
     company: Shenzhen Keweitai Enterprise Development Co.,Ltd
     company_url: 'http://www.alltechuav.com/'
-    company_logo: alltech
+    company_logo: cu
     location: Shenzhen, China
     date_start: '2020-07-11'
     date_end: '2020-09-1'
