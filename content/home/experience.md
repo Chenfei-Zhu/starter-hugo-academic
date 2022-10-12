@@ -45,8 +45,16 @@ experience:
     company_url: 'https://www.bjev.com.cn/'
     company_logo: bjev
     location: Beijing, China
-    date_start: '2020-07-11'
-    date_end: '2020-09-01'
+    date_start: '2019-07-01'
+    date_end: '2019-08-23'
+
+  - title: Research Assistant
+    company: Wuhan University of Technology
+    company_url: 'http://english.whut.edu.cn/'
+    company_logo: wut
+    location: Wuhan, China
+    date_start: '2018-02-15'
+    date_end: '2019-02-15'
   
   
  
