@@ -13,22 +13,14 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: ''
-url_code: ''
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-url_slides: ''
-#url_source: '#'
-#url_video: '#'
-  #- icon: twitter
+  - icon: twitter
     icon_pack: fab
     name: Follow
     url: https://twitter.com/georgecushen
-#url_code: ''
-#url_pdf: ''
-#url_slides: ''
-#url_video: ''
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
