@@ -1,10 +1,15 @@
 ---
 title: "Integrated trailing arm type independent suspension system"
 authors:
-- Boce Hu
+- Lin Xu
+- Chengleng Han
+- Enkang Cui
+- Yaohui Zhong
+- Yingjie He
 - admin
-- Xupeng Ai
-- Sunil K, Agrawal
+- Jiajun Wu
+- Jiaming Cui
+- Rui Tang
 date: "2020-06-09T00:00:00Z"
 #doi: ""
 
@@ -25,18 +30,19 @@ abstract: The invention discloses an integrated trailing arm type independent su
 
 # Summary. An optional shortened abstract.
 # summary: 
-
+tags:
+- Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: https://arxiv.org/pdf/2210.05130.pdf
-url_code: ''
+- name: Patent Search
+  url: https://worldwide.espacenet.com/patent/search/family/065849293/publication/CN109532363A?q=CN109532363
+#url_pdf: https://arxiv.org/pdf/2210.05130.pdf
+#url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: ''
+#url_slides: ''
 #url_source: '#'
 #url_video: '#'
 
