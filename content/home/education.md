@@ -30,7 +30,6 @@ experience:
     date_start: '2021-01-13'
     date_end: ''
     description: |2-
-        GPA: 3.85/4.0
         Concentration: Robotics and Control
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
   
