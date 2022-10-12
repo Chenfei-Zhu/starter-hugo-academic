@@ -37,5 +37,5 @@ design:
 ---
 
 #{{% callout note %}}
-#Quickly discover relevant content by [filtering publications](./patent/).
+#Quickly discover relevant content by [filtering patents](./patent/).
 #{{% /callout %}}
