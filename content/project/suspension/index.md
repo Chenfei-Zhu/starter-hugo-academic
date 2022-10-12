@@ -31,4 +31,4 @@ n this project, we proposed, designed, and manufactured a kind of special suspen
 
 • Proposed a new suspension structure, utilized SolidWorks to make a 3D model of that suspension consists of above 100 parts, improved models through structure optimization and finite element analysis.\
 • Designed a control system including a controller, motors, valves, etc., coded in C to achieve adjustable damping and adjustment of body height from 350mm to 650mm.\
-• Applied for a patent for a suspension system with the function of adjusting the height of vehicle bodies and got authorized.\
+• Applied for a patent for a suspension system with the function of adjusting the height of vehicle bodies and got authorized.

@@ -33,4 +33,4 @@ Hyperparameter tuning is critical for the performance of deep learning models. H
 • Designed a CNN network structure to track the position of human hands.\
 • Proposed a method to reduce the searching space of models by building a unique mapping between models and the combinations of model dimensions and several parameter groups choosing from pre-determined value boxes.\
 • Proposed a novel model-based reinforcement method for efficient hyperparameter optimization. Designed the environment, built a DQN agent, trained it on a subset of our dataset.\
-• The agent learned how to optimize the parameters of the network from a bad setting within a short time period, and achieve human-level accuracy, resulting in the lowest mae of 0.0036( in pixel).\
+• The agent learned how to optimize the parameters of the network from a bad setting within a short time period, and achieve human-level accuracy, resulting in the lowest mae of 0.0036( in pixel).

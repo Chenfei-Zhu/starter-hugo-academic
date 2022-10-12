@@ -32,4 +32,4 @@ In this project, I proposed a novel quadruped wheeled foot separated mobile robo
 • Proposed a novel quadruped wheeled foot separated mobile robot based on arm active suspension.\
 • Designed and modeled the overall structure of the robot including wheel and foot assembly, steering system, power, and control system of the robot. \
 • Calculated the key parameters of the power and control system, selected and installed electronic components such as robot joint motor, hub motor, and battery on the robot designed.\
-• Implemented Finite Element Analysis and Motion Analysis on the robot in simulation to verify the reliability of the structure designed.\
+• Implemented Finite Element Analysis and Motion Analysis on the robot in simulation to verify the reliability of the structure designed.
