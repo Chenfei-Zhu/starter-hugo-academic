@@ -27,7 +27,7 @@ url_video: ''
 slides: ""
 ---
 
-Hyperparameter tuning is critical for the performance of deep learning models. However, a noticeable limitation is the high computational cost of hyperparameters searching for complex models or for large datasets, which makes the tuning process highly inefficient. In this project, we proposed a method to efficiently optimize the parameters of a CNN network without human intervention. The CNN network is designed to track the position of human hands in Parkinson hand tapping exam proposed by the International Parkinson and Movement Disorder Society. The main contributions of the project are as follows:
+Hyperparameter tuning is critical for the performance of deep learning models. However, a noticeable limitation is the high computational cost of hyperparameters searching for complex models or for large datasets, which makes the tuning process highly inefficient. In this project, we proposed a method to efficiently optimize the parameters of a CNN network without human intervention. The CNN network is designed to track the position of human hands in Parkinson's finger tapping test proposed by the Movement Disorder Society. The main work of the project includes:
 
 • Collected and labeled about 18k images of people performing the finger tapping exam, each image contains a human hand and was labeled by four key points.
 
