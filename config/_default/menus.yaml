@@ -24,7 +24,7 @@ main:
     weight: 25
   - name: Patents
     url: '#patents'
-    weight: 50
+    weight: 35
 
 #  - name: Contact
 #    url: '#contact'
