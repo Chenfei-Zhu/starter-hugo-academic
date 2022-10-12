@@ -31,6 +31,8 @@ content:
       tag: Reinforcement Learning
     - name: Deep Learning
       tag: Deep Learning
+    - name: Computer Vision
+      tag: Computer Vision
     - name: Robotics
       tag: Robotics
 
