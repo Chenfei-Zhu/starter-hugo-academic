@@ -32,7 +32,7 @@ content:
     - name: Computer Vision
       tag: Computer Vision
     - name: Robotics
-      tag: Robotics
+      tag: Robotics, Mechanical Design
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
