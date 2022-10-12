@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tag: [Machine Learning, Evolutionary Algorithm]
+      tag: Machine Learning
     - name: Computer Vision
       tag: Computer Vision
     - name: Robotics
