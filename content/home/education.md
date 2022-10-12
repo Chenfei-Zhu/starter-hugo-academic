@@ -32,7 +32,7 @@ experience:
     #description: |2-
      #   Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics
   
-  - title: B.eng in Automotive Engineering
+  - title: B.Eng in Automotive Engineering
     company: Wuhan University of Technology
     company_url: 'http://english.whut.edu.cn/'
     company_logo: wut
