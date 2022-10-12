@@ -1,5 +1,4 @@
 ---
-active: False
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -35,13 +34,7 @@ experience:
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
 
 
-  - title: B.eng in Automotive Engineering
-    company: Wuhan University of Technology
-    company_url: 'http://english.whut.edu.cn/'
-    company_logo: wut
-    location: Wuhan, China
-    date_start: '2016-09-01'
-    date_end: '2020-06-8'
+
 
 design:
   columns: '2'
