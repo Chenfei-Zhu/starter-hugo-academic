@@ -33,13 +33,13 @@ experience:
         Concentration: Robotics and Control
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
   
-  - title: M.S in Mechanical Engineering
-    company: Columbia University
-    company_url: 'https://www.columbia.edu/'
-    company_logo: cu_1
-    location: New York, USA
-    date_start: '2021-01-13'
-    date_end: ''
+  - title: B.eng in Automotive Engineering
+    company: Wuhan University of Technology
+    company_url: 'http://english.whut.edu.cn/'
+    company_logo: wut
+    location: Wuhan, China
+    date_start: '2016-09-01'
+    date_end: '2020-06-08'
     description: |2-
         Concentration: Robotics and Control
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
