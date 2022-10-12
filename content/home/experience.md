@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Participating in several research projects as a research assistant in Robotics And Rehabilitation (RoAR) Lab instructed by Prof. Sunil K. Agrawal in the Mechanical Engineering department at Columbia University.
+
   - title: 1
     company: 1
     data_start: '2021-01-15'
