@@ -30,8 +30,8 @@ experience:
     date_start: '2021-05-15'
     date_end: ''
     description: |2-
-        Participating in several research projects as a research assistant in Robotics And Rehabilitation (RoAR) Lab instructed by Prof. Sunil K. Agrawal in the Mechanical Engineering department. \
-        Research areas: Deep learning, Computer Vision, EMG and Muscle Synergy.
+        Participating in several research projects as a research assistant in Robotics And Rehabilitation (RoAR) Lab instructed by Prof. Sunil K. Agrawal in the Mechanical Engineering department at Columbia University. \
+        
   
 
 design:
