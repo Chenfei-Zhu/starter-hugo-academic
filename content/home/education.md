@@ -29,8 +29,8 @@ experience:
     location: New York, USA
     date_start: '2021-01-13'
     date_end: ''
-    description: |2-
-        Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics
+    #description: |2-
+     #   Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics
   
   - title: B.eng in Automotive Engineering
     company: Wuhan University of Technology
