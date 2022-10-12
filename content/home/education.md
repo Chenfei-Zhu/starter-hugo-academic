@@ -41,7 +41,8 @@ experience:
     location: Wuhan, China
     date_start: '2016-09-01'
     date_end: '2020-06-08'
-    description: GPA: 3.7/4.0
+    description: |2- 
+        GAP: 3.7/4.0
 
 
 design:
