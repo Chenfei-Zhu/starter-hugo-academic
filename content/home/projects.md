@@ -28,7 +28,7 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tags:
+      tag:
         - Evolutionary Algorithm
         - Deep Learning
         - Reinforcement Learning
