@@ -35,11 +35,18 @@ experience:
   - title: Mechanical Design Engineer
     company: Shenzhen Keweitai Enterprise Development Co.,Ltd
     company_url: 'http://www.alltechuav.com/'
-    company_logo: cu
+    company_logo: alltech
     location: Shenzhen, China
     date_start: '2020-07-11'
     date_end: '2020-09-01'
   
+   - title: Product Planning Intern
+    company: Beijing Electric Vehicle Co.,LTD
+    company_url: 'https://www.bjev.com.cn/'
+    company_logo: bjev
+    location: Beijing, China
+    date_start: '2019-07-01'
+    date_end: '2019-08-23'
  
 
 design:
