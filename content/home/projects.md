@@ -28,14 +28,11 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tag:
-        - Evolutionary Algorithm
-        - Deep Learning
-        - Reinforcement Learning
+      tag: Machine Learning
     - name: Computer Vision
       tag: Computer Vision
     - name: Robotics
-      tag: Robotics, Mechanical Design
+      tag: Robotics
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

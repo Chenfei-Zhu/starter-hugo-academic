@@ -4,6 +4,7 @@ summary: A method to efficiently optimize the hyperparameters of a CNN network w
 tags:
   - Deep Learning
   - Reinforcement Learning
+  - Machine Learning
 date: '2021-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

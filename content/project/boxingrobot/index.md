@@ -6,6 +6,7 @@ tags:
   - Computer Vision
   - Robotics
   - Mechanical Design
+  - Machine Learning
 date: '2021-12-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
