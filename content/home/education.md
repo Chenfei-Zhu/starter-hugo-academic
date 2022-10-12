@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Concentration: Robotics and Control
+
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
   
   - title: B.eng in Automotive Engineering
