@@ -1,5 +1,5 @@
 ---
-title: Neural Network Hyperparameters Tuning: Reinforcement Learning Approach
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
   - Deep Learning
