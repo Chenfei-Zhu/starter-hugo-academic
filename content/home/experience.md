@@ -32,7 +32,15 @@ experience:
     description: |2-
         Concentration: Robotics and Control
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
-
+  
+  - title: B.eng in Automotive Engineering
+    company: Wuhan University of Technology
+    company_url: 'http://english.whut.edu.cn/'
+    company_logo: wut
+    location: Wuhan, China
+    date_start: '2016-09-01'
+    date_end: '2020-06-8'
+    description: none
 
 
 
