@@ -10,11 +10,11 @@ authors:
 - Jiajun Wu
 - Jiaming Cui
 - Rui Tang
-date: "2020-06-09T00:00:00Z"
+date: "2019-03-29T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-09T00:00:00Z"
+publishDate: "2019-03-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,19 +23,17 @@ publishDate: "2020-06-09T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CN109532363"
-publication_short: "issued"
+publication: "CN109532363, issued"
+publication_short: ""
 
-abstract: The invention discloses an integrated trailing arm type independent suspension system. The system comprises a power device, the left side and the right side of the power device sleeve mandrels respectively, the mandrels on the left side and the right side are fixedly connected with a vehicle body separately, blade dampers and trailing arms sleeve the mandrels on the left side and the right side insequence from inside to outside, the inner ends of two blade dampers on the left side and the right side are connected with the two ends of the power device respectively, the trailing arms are connected with the blade dampers on the corresponding sides, torsion rod springs are connected between the blade damper on the left side and the trailing arm on the right side and between the blade damper on the right side and the trailing arm on the left side, and the lower ends of the two trailing arms are connected with the wheels. Automatic adjustment of the vehicle body height is achieved, and thevehicle body damping function is achieved; a vehicle body platform can adapt to various complex terrains, and the functions of climbing, ditch crossing, mountain driving and the like are achieved.
+abstract: The invention discloses an arm type torsional driving suspension frame which comprises a speed reducing motor, two torsion rod springs, two longitudinal arms, two blade vibration reducers and a frame.The two torsion rod springs are distributed on the two sides of the speed reducing motor. The two output ends of the speed reducing motor are connected with the ends of the two torsion rod springs. The other ends of the two torsion rod springs are fixedly connected with the two longitudinal arms. The two blade vibration reducers are arranged on the two torsion rod springs in a sleeving manner correspondingly. The two blade vibration reducers are fixedly connected with the two ends of the speed reducing motor correspondingly. The speed reducing motor is fixedly arranged on the frame. The outerends of the two torsion rod springs are connected with the two ends of the frame through bearings correspondingly. While the height of a vehicle body is adjusted in a driving manner, the suspension frame has a basic vibration reducing function, the trafficability characteristic under various terrains is achieved conveniently, and the obstacle crossing ability of a vehicle is improved greatly.
 
 # Summary. An optional shortened abstract.
-# summary: 
-tags:
-- Source Themes
+# summary:
 featured: false
 
 links:
-- name: Patent Search
+- name: Espacenet
   url: https://worldwide.espacenet.com/patent/search/family/065849293/publication/CN109532363A?q=CN109532363
 #url_pdf: https://arxiv.org/pdf/2210.05130.pdf
 #url_code: ''

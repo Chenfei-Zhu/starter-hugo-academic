@@ -1,20 +1,21 @@
 ---
-title: "Integrated trailing arm type independent suspension system"
+title: "A suspension system for realizing height adjustment of a vehicle body"
 authors:
 - Lin Xu
-- Chengleng Han
 - Enkang Cui
+- Chengleng Han
 - Yaohui Zhong
+- Rui Tang
 - Yingjie He
+- Jiaming Cui
 - admin
 - Jiajun Wu
-- Jiaming Cui
-- Rui Tang
-date: "2020-06-09T00:00:00Z"
+
+date: "2019-01-15T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-09T00:00:00Z"
+publishDate: "2019-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,20 +24,19 @@ publishDate: "2020-06-09T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "CN109532363"
+publication: "CN109203896, issued"
 publication_short: ""
 
-abstract: The invention discloses an integrated trailing arm type independent suspension system. The system comprises a power device, the left side and the right side of the power device sleeve mandrels respectively, the mandrels on the left side and the right side are fixedly connected with a vehicle body separately, blade dampers and trailing arms sleeve the mandrels on the left side and the right side insequence from inside to outside, the inner ends of two blade dampers on the left side and the right side are connected with the two ends of the power device respectively, the trailing arms are connected with the blade dampers on the corresponding sides, torsion rod springs are connected between the blade damper on the left side and the trailing arm on the right side and between the blade damper on the right side and the trailing arm on the left side, and the lower ends of the two trailing arms are connected with the wheels. Automatic adjustment of the vehicle body height is achieved, and thevehicle body damping function is achieved; a vehicle body platform can adapt to various complex terrains, and the functions of climbing, ditch crossing, mountain driving and the like are achieved.
+abstract: The invention discloses a suspension system for realizing height adjustment of a vehicle body. The system includes a mandrel and an adjustment chamber, the two ends of the mandrel are fixed to the body, the adjusting cavity sleeves the mandrel, and the left and right sides of the adjusting cavity are connected with blade shock absorbers. A longitudinal arm is connected to that outer end of the blade shock absorbers on the left and right sides. The blade shock absorber and a longitudinal arm sleeve the mandrel. A torsion bar spring is connected between the left blade shock absorber and the right side longitudinal arm and between the right blade shock absorber and the left side longitudinal arm respectively, the lower end of the longitudinal arm is used for connecting with the wheel, the adjusting cavity drives the blade shock absorbers on both sides to rotate, and the blade shock absorbers on both sides drive the corresponding longitudinal arms to rotate around the mandrel through the torsion bar spring. The system realizes the automatic adjustment of the height of the car body, has the function of damping the vibration of the car body, so that the car body platform can adapt to allkinds of complex terrain, and realize the functions of climbing, crossing ditches, mountain driving and so on.
 
 # Summary. An optional shortened abstract.
 # summary: 
-tags:
-- Source Themes
+
 featured: false
 
 links:
 - name: Patent Search
-  url: https://worldwide.espacenet.com/patent/search/family/065849293/publication/CN109532363A?q=CN109532363
+  url: https://worldwide.espacenet.com/patent/search/family/064993740/publication/CN109203896A?q=CN109203896
 #url_pdf: https://arxiv.org/pdf/2210.05130.pdf
 #url_code: ''
 #url_dataset: '#'
