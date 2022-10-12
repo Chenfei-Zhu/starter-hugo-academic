@@ -28,9 +28,10 @@ content:
     - name: All
       tag: '*'
     - name: Machine Learning
-      tag: Deep Learning
-      tag: Reinforcement Learning
-      tag: Evolutionary Algorithm
+      tags:
+        - Evolutionary Algorithm
+        - Deep Learning
+        - Reinforcement Learning
     - name: Computer Vision
       tag: Computer Vision
     - name: Robotics
