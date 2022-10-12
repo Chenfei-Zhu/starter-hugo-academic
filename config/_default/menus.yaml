@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Experience
     url: '#experience'
-    weight: 22
+    weight: 40
   - name: Projects
     url: '#projects'
     weight: 30
@@ -24,7 +24,7 @@ main:
     weight: 25
   - name: Patents
     url: '#patents'
-    weight: 26
+    weight: 50
 
 #  - name: Contact
 #    url: '#contact'
