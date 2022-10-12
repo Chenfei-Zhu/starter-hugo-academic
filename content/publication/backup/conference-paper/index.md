@@ -1,5 +1,5 @@
 ---
-Active: False
+active: False
 title: 'An example conference paper'
 
 # Authors
