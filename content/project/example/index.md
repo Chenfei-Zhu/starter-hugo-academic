@@ -1,6 +1,6 @@
 ---
 title: Neural Network Hyperparameters Tuning - Reinforcement Learning Approach
-summary: A method to efficiently optimize the parameters of a CNN network without human intervention.
+summary: A method to efficiently optimize the hyperparameters of a CNN network without human intervention.
 tags:
   - Deep Learning
   - Reinforcement Learning
