@@ -1,12 +1,15 @@
 ---
-title: "An example preprint / working paper"
-#authors:
-#- admin
+title: "ACRNet: Attention Cube Regression Network for Multi-view Real-time 3D Human Pose Estimation in Telemedicine"
+authors:
+- Boce Hu
+- admin
+- Xupeng Ai
+- Sunil K, Agrawal
 #date: "2019-04-07T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-10-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +33,8 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://arxiv.org/pdf/2210.05130.pdf
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
