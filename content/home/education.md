@@ -25,7 +25,7 @@ experience:
   - title: M.S in Mechanical Engineering, Concentrated in Robotics and Control
     company: Columbia University
     company_url: 'https://www.columbia.edu/'
-    company_logo: cu_1
+    company_logo: cu
     location: New York, USA
     date_start: '2021-01-13'
     date_end: ''
