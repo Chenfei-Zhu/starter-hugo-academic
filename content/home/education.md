@@ -32,7 +32,7 @@ experience:
     description: |2-
         GPA: 3.85/4.0 \
         Concentration: Robotics and Control \
-        Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
+        Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics
   
   - title: B.eng in Automotive Engineering
     company: Wuhan University of Technology
@@ -41,7 +41,7 @@ experience:
     location: Wuhan, China
     date_start: '2016-09-01'
     date_end: '2020-06-08'
-
+    description: GPA: 3.7/4.0
 
 
 design:
