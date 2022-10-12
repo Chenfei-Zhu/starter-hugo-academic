@@ -33,6 +33,8 @@ abstract: The invention discloses an arm type torsional driving suspension frame
 featured: false
 
 links:
+- name: Custom Link
+  url: http://example.org
 - name: Espacenet
   url: https://worldwide.espacenet.com/patent/search/family/065849293/publication/CN109532363A?q=CN109532363
 #url_pdf: https://arxiv.org/pdf/2210.05130.pdf
