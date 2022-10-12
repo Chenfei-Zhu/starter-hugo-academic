@@ -32,7 +32,6 @@ experience:
     description: |2-
         Participating in several research projects as a research assistant in Robotics And Rehabilitation (RoAR) Lab instructed by Prof. Sunil K. Agrawal in the Mechanical Engineering department at Columbia University.
   
-experience:
   - title: Mechanical Design Engineer
     company: Shenzhen Keweitai Enterprise Development Co.,Ltd
     company_url: 'http://www.alltechuav.com/'
@@ -40,8 +39,7 @@ experience:
     location: Shenzhen, China
     date_start: '2020-07-11'
     date_end: '2020-09-1'
-
-experience:
+  
   - title: Product Planning Intern
     company: Beijing Electric Vehicle Co.,LTD
     company_url: 'https://www.bjev.com.cn/'
