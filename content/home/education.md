@@ -30,8 +30,6 @@ experience:
     date_start: '2021-01-13'
     date_end: ''
     description: |2-
-        GPA: 3.85/4.0 \
-        Concentration: Robotics and Control \
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics
   
   - title: B.eng in Automotive Engineering
@@ -41,8 +39,6 @@ experience:
     location: Wuhan, China
     date_start: '2016-09-01'
     date_end: '2020-06-08'
-    description: |2- 
-        GAP: 3.7/4.0
 
 
 design:
