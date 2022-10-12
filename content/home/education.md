@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: M.S in Mechanical Engineering
+  - title: M.S in Mechanical Engineering, Concentrated in Robotics and Control
     company: Columbia University
     company_url: 'https://www.columbia.edu/'
     company_logo: cu_1
@@ -31,7 +31,6 @@ experience:
     date_end: ''
     description: |2-
         Concentration: Robotics and Control
-
         Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
   
   - title: B.eng in Automotive Engineering
