@@ -3,7 +3,7 @@ title: Neural Network Hyperparameters Tuning - Reinforcement Learning Approach
 summary: a method to efficiently optimize the parameters of a CNN network without human intervention.
 tags:
   - Deep Learning
-  - Reinforcement Leaning
+  - Reinforcement Learning
 date: '2021-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
