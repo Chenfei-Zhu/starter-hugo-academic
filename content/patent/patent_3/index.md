@@ -21,7 +21,7 @@ publishDate: "2019-01-15T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["8"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: "CN109203896, issued"
@@ -35,7 +35,7 @@ abstract: The invention discloses a suspension system for realizing height adjus
 featured: false
 
 links:
-- name: Patent Search
+- name: Espacenet
   url: https://worldwide.espacenet.com/patent/search/family/064993740/publication/CN109203896A?q=CN109203896
 #url_pdf: https://arxiv.org/pdf/2210.05130.pdf
 #url_code: ''
