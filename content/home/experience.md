@@ -40,9 +40,7 @@ experience:
     location: Wuhan, China
     date_start: '2016-09-01'
     date_end: '2020-06-08'
-    description: |2-
-        Concentration: Robotics and Control
-        Courseworks: Machine Learning, Reinforcement Learning, Computer Vision, Intro to Robotics, etc.
+    
 
 
 
