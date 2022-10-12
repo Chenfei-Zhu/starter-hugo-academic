@@ -18,7 +18,7 @@ publishDate: "2022-10-11T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "arXiv"
 publication_short: ""
 
 abstract: Human pose estimation (HPE) for 3D skeleton reconstruction in telemedicine has long received attention. Although the development of deep learning has made HPE methods in telemedicine simpler and easier to use, addressing low accuracy and high latency remains a big challenge. In this paper, we propose a novel multi-view Attention Cube Regression Network (ACRNet), which regresses the 3D position of joints in real time by aggregating informative attention points on each cube surface. More specially, a cube whose each surface contains uniformly distributed attention points with specific coordinate values is first created to wrap the target from the main view. Then, our network regresses the 3D position of each joint by summing and averaging the coordinates of attention points on each surface after being weighted. To verify our method, we first tested ACRNet on the opensource ITOP dataset; meanwhile, we collected a new multi-view upper body movement dataset (UBM) on the trunk support trainer (TruST) to validate the capability of our model in real rehabilitation scenarios. Experimental results demonstrate the superiority of ACRNet compared with other state-of-theart methods. We also validate the efficacy of each module in ACRNet. Furthermore, Our work analyzes the performance of ACRNet under the medical monitoring indicator. Because of the high accuracy and running speed, our model is suitable for real-time telemedicine settings
@@ -29,8 +29,6 @@ abstract: Human pose estimation (HPE) for 3D skeleton reconstruction in telemedi
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://arxiv.org/pdf/2210.05130.pdf
 url_code: ''
 #url_dataset: '#'
