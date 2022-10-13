@@ -45,7 +45,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chenfeiresume/
-  - icon: envelope
+  #- icon: envelope
     icon_pack: fas
     link: 'chenfei.zhu@columbia.edu'
   #- icon: twitter
@@ -76,6 +76,6 @@ email: 'chenfei.zhu0127@gmail.com'
 highlight_name: true
 ---
 
-Chenfei Zhu is a M.S student in Mechanical Engineering at Columbia University.
+Chenfei Zhu is a M.S student in Mechanical Engineering at Columbia University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
