@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:chenfei.zhu0127@gmail.com"
+    link: "cz:chenfei.zhu0127@gmail.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chenfeiresume/
