@@ -112,3 +112,8 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
