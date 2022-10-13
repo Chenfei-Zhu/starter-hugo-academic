@@ -32,7 +32,7 @@ slides: ""
 {{% callout note %}}
 This is a research project with a manuscript under polishment.
 {{% /callout %}}
-The main contribution of this manuscript is:
+The main contribution of this project is:
 
 • Proposed a novel network architecture, shifted attention regression network (SARN), which is characterized by shifted attention heatmap and soft input aggregation, to perform accurate, robust and unbiased 3D hand pose estimation (HPE) for medical application. \
 • Built a hand movement dataset (PAKH) based on Parkinson’s finger tapping test (FTT) by conducting experiments on 17 subjects. PAKH contains 92k depth images collected by two Intel RealSense D435i depth cameras with 5 hand joint annotations labeled by Vicon infrared system. \
