@@ -19,7 +19,7 @@ links:
 url_code: ''
 url_pdf: "uploads/boxing.pdf"
 url_slides: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=BDZE6ahYLlw'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
