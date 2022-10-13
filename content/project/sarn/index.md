@@ -1,5 +1,5 @@
 ---
-title: SARN: Shifted Attention Regression Network for 3D Hand Pose Estimation in Medical Application
+title: SARN - Shifted Attention Regression Network for 3D Hand Pose Estimation in Medical Application
 summary: A novel network architecture to perform accurate and unbiased 3D hand pose estimation.
 tags:
   - Computer Vision
