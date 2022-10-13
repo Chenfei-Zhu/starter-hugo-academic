@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Roar Lab, Columbia University
-    company_url: 'https://www.columbia.edu/'
+    company_url: 'https://roar.me.columbia.edu/'
     company_logo: cu
     location: New York, USA
     date_start: '2021-05-15'
