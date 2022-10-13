@@ -15,7 +15,7 @@ image:
 
 links:
 url_code: ''
-url_pdf: boxing.pdf
+url_pdf: "uploads/boxing.pdf"
 url_slides: ''
 url_video: ''
 
