@@ -10,9 +10,8 @@ date: '2021-12-07T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-#image:
- # caption: Photo by rawpixel on Unsplash
-  #focal_point: Smart
+image:
+  focal_point: Smart
 
 links:
 url_code: ''
