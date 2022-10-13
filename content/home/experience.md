@@ -40,7 +40,8 @@ experience:
     location: Shenzhen, China
     date_start: '2020-07-11'
     date_end: '2020-09-01'
-    description: Designed a transmission system in a drone hangar project: used SolidWorks to build the 3D model of the transmission system to lift and position a drone, open the hatch, and transmit power to the manipulator.
+    description: |2-
+        Designed a transmission system in a drone hangar project: used SolidWorks to build the 3D model of the transmission system to lift and position a drone, open the hatch, and transmit power to the manipulator.
 
   - title: Product Planning Intern
     company: Beijing Electric Vehicle Co.,LTD
@@ -49,6 +50,8 @@ experience:
     location: Beijing, China
     date_start: '2019-07-01'
     date_end: '2019-08-23'
+    description: |2-
+        Managed and updated a database with thousands of user interview data and optimized the scenario demand database for analyzing the pros and cons of existing products to support the planning of future ones.
 
   - title: Research Assistant
     company: Wuhan University of Technology
