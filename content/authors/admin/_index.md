@@ -44,22 +44,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chenfei.zhu0127@gmail.com
+    link: "chenfei.zhu0127@gmail.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chenfeiresume/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  #- icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    
+  
   
 
 # Link to a PDF of your resume/CV.
