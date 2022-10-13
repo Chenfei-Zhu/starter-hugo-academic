@@ -60,6 +60,8 @@ experience:
     location: Wuhan, China
     date_start: '2018-02-15'
     date_end: '2019-02-15'
+    description: |2-
+        Worked as a research assistant in Xunneng Technology studio instructed by Prof. Lin Xu under the Automotive Engineering department for the In-arm Torsion Electromagnetic Active Suspension project.
   
   
  
