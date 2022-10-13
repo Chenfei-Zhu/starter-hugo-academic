@@ -41,14 +41,14 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-#social:
-  #- icon: linkedin
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: chenfei.zhu0127@gmail.com
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chenfeiresume/
-  #- icon: envelope
-    icon_pack: fas
-    link: 'chenfei.zhu@columbia.edu'
-  #- icon: twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
