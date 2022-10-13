@@ -45,12 +45,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:chenfei.zhu@columbia.edu"
+    label: Send me a email
+    display: 
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chenfeiresume/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ChenfeiZ
     
   
   
