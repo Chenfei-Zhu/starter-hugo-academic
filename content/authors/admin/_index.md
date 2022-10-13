@@ -16,7 +16,7 @@ role: M.S Student in Mechanical Engineering
 organizations:
   - name: Columbia University
     url: https://www.columbia.edu/
-phone: (332) 248 8008
+
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -62,9 +62,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: static/uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/Chenfei_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'chenfei.zhu0127@gmail.com'
