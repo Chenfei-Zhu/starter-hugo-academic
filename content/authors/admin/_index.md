@@ -22,7 +22,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  #- Shixian Li
+  - Shixian Li
   - Mobile Robot
   - Computer Vision
   - Deep Learning
@@ -75,4 +75,4 @@ highlight_name: true
 
 Chenfei Zhu is a M.S student in Mechanical Engineering at Columbia University, concentrating in Robotics and Control, and has a very strong interest in robotics, especially mobile robots like wheel-legged ones, computer vision, and deep learning. During his undergraduate and graduate studies, he participated in several research projects regarding wheel-legged robot design, 3D human/ hand pose estimation, reinforcement learning applications, etc. Besides, Chenfei is also an amateur history buff and travel enthusiast. At the end of 2022, he will graduate from Columbia University, after which he hopes to continue his research in his field.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Chenfei_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
