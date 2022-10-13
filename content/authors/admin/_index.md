@@ -65,9 +65,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: static/uploads/resume.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'chenfei.zhu0127@gmail.com'
@@ -78,4 +78,4 @@ highlight_name: true
 
 Chenfei Zhu is a M.S student in Mechanical Engineering at Columbia University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
