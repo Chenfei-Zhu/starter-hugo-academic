@@ -72,6 +72,6 @@ email: 'chenfei.zhu0127@gmail.com'
 highlight_name: true
 ---
 
-henfei Zhu is a M.S student in Mechanical Engineering at Columbia University, concentrating in Robotics and Control, with a very strong interest in robotics( especially mobile robots like wheel-legged ones), computer vision, and deep learning. During his undergraduate and graduate studies, he participated in several research projects regarding wheel-legged robot design, human/ hand pose estimation, etc. He is about to graduate from Columbia University, after which he hopes to continue his research in these areas.
+Chenfei Zhu is a M.S student in Mechanical Engineering at Columbia University, concentrating in Robotics and Control, with a very strong interest in robotics( especially mobile robots like wheel-legged ones), computer vision, and deep learning. During his undergraduate and graduate studies, he participated in several research projects regarding wheel-legged robot design, human/ hand pose estimation, etc. He is about to graduate from Columbia University, after which he hopes to continue his research in these areas.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
