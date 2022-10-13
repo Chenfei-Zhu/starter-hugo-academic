@@ -16,7 +16,7 @@ role: M.S Student in Mechanical Engineering
 organizations:
   - name: Columbia University
     url: https://www.columbia.edu/
-
+phone: (332) 248 8008
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
