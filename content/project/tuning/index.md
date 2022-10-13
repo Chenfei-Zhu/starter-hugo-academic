@@ -30,8 +30,6 @@ slides: ""
 
 Hyperparameter tuning is critical for the performance of deep learning models. However, a noticeable limitation is the high computational cost of hyperparameters searching for complex models or for large datasets, which makes the tuning process highly inefficient. In this project, we proposed a method to efficiently optimize the parameters of a CNN network without human intervention. The CNN network is designed to track the position of human hands in Parkinson's finger tapping test proposed by the Movement Disorder Society. The main work of the project includes:
 
-• Collected and labeled about 18k images of people performing the finger tapping exam, each image contains a human hand and was labeled by four key points.\
-• Designed a CNN network structure to track the position of human hands.\
-• Proposed a method to reduce the searching space of models by building a unique mapping between models and the combinations of model dimensions and several parameter groups choosing from pre-determined value boxes.\
-• Proposed a novel model-based reinforcement method for efficient hyperparameter optimization. Designed the environment, built a DQN agent, trained it on a subset of our dataset.\
-• The agent learned how to optimize the parameters of the network from a bad setting within a short time period, and achieve human-level accuracy, resulting in the lowest mae of 0.0036( in pixel).
+• Collected a dataset of about 18k RGB images of subjects performing Parkinson’s finger tapping test; each image contains a human hand with four hand joint annotations, built a simple CNN network for hand joint tracking.\
+• Proposed a model-based reinforcement learning method for efficient hyperparameter optimization: Designed a reinforcement learning environment to provide observation, action, and reward based on the network's hyperparameters and performance and built a DQN agent to learn how to improve the structure of the network.\
+• The agent learned how to optimize the hyperparameters of the network from a bad setting within a short time period and achieve human-level accuracy.

@@ -28,6 +28,7 @@ slides: ""
 
 In this project, we proposed, designed, and manufactured a kind of special suspension structure whose height can be adjusted based on the road condition through an electromagnetic way. The main contributions of this project are as follows:
 
-• Proposed a new suspension structure, utilized SolidWorks to make a 3D model of that suspension consists of above 100 parts, improved models through structure optimization and finite element analysis.\
-• Designed a control system including a controller, motors, valves, etc., coded in C to achieve adjustable damping and adjustment of body height.
+• Proposed a novel active suspension with adjustable height, utilized SolidWorks to build the 3D model, which consists of above 100 parts; improved the model through structure optimization and finite element analysis.\
+• Designed a control system including a controller, motors, valves, etc.; coded in C to achieve adjustable damping and adjustment of body height from 350mm to 650mm.\
+• The proposed suspension has an adjustable height and a cushioned energy reduction capability, making it suitable for complex terrain.
 
