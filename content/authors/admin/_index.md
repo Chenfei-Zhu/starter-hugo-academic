@@ -32,8 +32,7 @@ interests:
 education:
   courses:
     - course: M.S in Mechanical Engineering
-      institution: Columbia University
-      grades: 3.7/4.0
+      institution: GPA - 3.85/4.0   Columbia University
       year: 2022
     - course: B.Eng in Automotive Engineering
       institution: Wuhan University of Technology
