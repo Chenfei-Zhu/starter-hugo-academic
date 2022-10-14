@@ -29,7 +29,7 @@ slides: ""
 ---
 
 {{% callout note %}}
-This is a research project with a manuscript under polishment.
+This is a research project leading by Chenfei with a manuscript under polishment.
 {{% /callout %}}
 The main contribution of this project is:
 
