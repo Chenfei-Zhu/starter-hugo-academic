@@ -33,6 +33,7 @@ education:
   courses:
     - course: M.S in Mechanical Engineering
       institution: Columbia University
+      grade: 3.7/4.0
       year: 2022
     - course: B.Eng in Automotive Engineering
       institution: Wuhan University of Technology
