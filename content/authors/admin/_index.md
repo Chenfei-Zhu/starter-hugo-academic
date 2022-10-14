@@ -32,12 +32,11 @@ interests:
 education:
   courses:
     - course: M.S in Mechanical Engineering
-      institution: GPA: 3.85/4.0    Columbia University
+      institution: Columbia University
       year: 2022
     - course: B.Eng in Automotive Engineering
-      institution: GPA: 3.7/4.0     Wuhan University of Technology
+      institution: Wuhan University of Technology
       year: 2020
-      
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
