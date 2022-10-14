@@ -26,7 +26,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+{{% callout note %}}
+This is an undergraduate thesis at WUT.
+{{% /callout %}}
 In this project, I proposed a novel quadruped wheeled foot separated mobile robot based on arm active suspension by combining quadruped bionics and arm suspension structure. The main contributions are as follows:
 
 • Proposed a novel quadruped wheeled-foot separated mobile robot based on a special active suspension with adjustable height by analyzing quadruped bionics.\

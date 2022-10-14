@@ -25,7 +25,9 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+{{% callout note %}}
+This is a Science and Technology Innovation Project associated with three Chinese patents.
+{{% /callout %}}
 In this project, we proposed, designed, and manufactured a kind of special suspension structure whose height can be adjusted based on the road condition through an electromagnetic way. The main contributions of this project are as follows:
 
 • Proposed a novel active suspension with adjustable height, utilized SolidWorks to build the 3D model, which consists of above 100 parts; improved the model through structure optimization and finite element analysis.\
