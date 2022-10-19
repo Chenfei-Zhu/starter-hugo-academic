@@ -22,7 +22,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Shixian Li
+  #- Shixian Li
   - Mobile Robot
   - Computer Vision
   - Deep Learning
