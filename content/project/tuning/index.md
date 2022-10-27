@@ -16,7 +16,8 @@ external_link: ''
 
 links:
 url_code: ''
-url_pdf: "uploads/tuning.pdf"
+#url_pdf: "uploads/tuning.pdf"
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
