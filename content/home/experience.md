@@ -27,7 +27,7 @@ experience:
     company_url: 'https://roar.me.columbia.edu/'
     company_logo: cu
     location: New York, USA
-    date_start: '2021-05-15'
+    date_start: '2021-09-15'
     date_end: ''
     description: |2-
         Working as a research assistant in Robotics And Rehabilitation (RoAR) Lab instructed by Prof. Sunil K. Agrawal in the Mechanical Engineering department at Columbia University.\
