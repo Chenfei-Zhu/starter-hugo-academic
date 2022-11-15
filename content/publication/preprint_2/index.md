@@ -32,7 +32,7 @@ abstract: Seated postural limit defines the region from beyond which a subject c
 featured: false
 
 links:
-url_pdf: https://ieeexplore.ieee.org/document/9944704
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944704
 url_code: ''
 #url_dataset: '#'
 #url_poster: '#'
