@@ -10,7 +10,7 @@ last_name: Zhu
 superuser: true
 
 # Role/position/tagline
-role: M.S Student in Mechanical Engineering
+role: M.S Student in Mechanical Engineering, Robotics and Control
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,11 +22,10 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  #- Shixian Li
-  - Mobile Robot
-  - Rehabilitation Robot
   - Computer Vision
   - Deep Learning
+  - Mobile Robot
+  - Rehabilitation Robot
   - Reinforcement Learning
 
 # Education to show in About widget
