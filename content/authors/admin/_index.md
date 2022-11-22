@@ -24,8 +24,8 @@ organizations:
 interests:
   - Computer Vision
   - Deep Learning
+  - Healthcare and Rehabilitation
   - Mobile Robot
-  - Rehabilitation Robot
   - Reinforcement Learning
 
 # Education to show in About widget
